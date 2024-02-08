@@ -1,5 +1,5 @@
 
-# NETFLIX KE PITAJI
+# Xerflix
 
 
 Watch all your favourite movies, web series, TV shows and anime for free. 
@@ -39,30 +39,8 @@ Open the project directory and run `index.html`.
 
 
 
-## Acknowledgements
 
-- [Pace.js](https://codebyzach.github.io/pace/e.com/project/elangosundar/awesome-README-templates)
-- IMDB
-- TMDB
-- Smashy Stream
+### Vercel
+Host your own instance of ANIMXER API on Vercel using the button below.
 
-## Authors
-
-- [@pulkitpareek18](https://www.github.com/pulkitpareek18)
-
-
-## Contributing
-
-Contributions are always welcome!  
-If you have any new Idea or have found a bug, please don't hesitate to open a Pull Request.
-
-
-## License
-
-[MIT](https://github.com/pulkitpareek18/netflix/blob/main/LICENSE)
-
-
-## Support
-
-For support, email pulkitpareekofficial@gmail.com or ask any query on Twitter.
-
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Animxer02/anim-xer-.git)
